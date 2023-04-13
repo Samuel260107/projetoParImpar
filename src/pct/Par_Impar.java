@@ -37,6 +37,7 @@ public class Par_Impar {
         }
         */
         JOptionPane.showMessageDialog(null, "Gilberto");
+        JOptionPane.showMessageDialog(null, "Samuel");
         
     }
     
